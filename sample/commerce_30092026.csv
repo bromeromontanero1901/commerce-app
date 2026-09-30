@@ -1,0 +1,9 @@
+pc_codcomercio,pc_nomcomred,pc_tipdoc,pc_numdoc,pc_direccion,pc_telefono,pc_email,pc_processdate
+C001,Tienda La Esquina,CED,1712345678,Av. Amazonas N24-10,022345678,esquina@mail.com,2026-09-30
+C002,Farmacia Central,RUC,1790012345001,Calle Bolívar 123,022987654,central@mail.com,2026-09-30
+C003,,CED,1723456789,Av. 10 de Agosto 55,022111222,sinnombre@mail.com,2026-09-30
+C004,Panadería El Trigo,CED,17ABC45678,Calle Sucre 45,022333444,trigo@mail.com,2026-09-30
+C005,Ferretería Andina,CED,1756-789012,Av. Colón 88,022555666,andina@mail.com,2026-09-30
+C006,Librería Norte,CED,,Av. Shyris 100,022777888,norte@mail.com,2026-09-30
+C007,Super Mercado Sur,RUC,1791234567001,Av. Maldonado 300,022999000,sur@mail.com,2026-09-30
+C008,,CED,17X45#6789,Calle Quito 12,022121212,vacio@mail.com,2026-09-29

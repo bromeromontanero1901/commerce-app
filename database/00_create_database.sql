@@ -1,0 +1,2 @@
+IF DB_ID('CommerceDb') IS NULL CREATE DATABASE CommerceDb;
+GO
